@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-indol-theta.vercel.app/"
+      "destination": "https://netmusicapi-three.vercel.app/"
     }
   ]
 }
